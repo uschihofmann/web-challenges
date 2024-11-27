@@ -1,0 +1,4 @@
+- git init
+- git status
+- git add <filename>
+- git commit -m "commit messeges"
