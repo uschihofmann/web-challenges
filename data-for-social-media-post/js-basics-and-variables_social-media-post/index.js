@@ -9,8 +9,14 @@ console.clear();
 	- a boolean called `isReported` to indicate whether the post has been reported
 */
 
-// --v-- write your code here --v--
+*/
 
+// --v-- write your code here --v--
+const title = "Looking for holidays";
+const text = "I'd like to be, under the sea, in an octopus's garden, in the shade ";
+let numberOfLikes =  42;
+const author = "beetle fish";
+const isReported = true;
 // --^-- write your code here --^--
 
 /*
@@ -18,5 +24,12 @@ console.clear();
 */
 
 // --v-- write your code here --v--
+console.log(title);
+console.log(text);
+console.log(numberOfLikes);
+console.log(author);
+console.log(isReported);
 
-// --^-- write your code here --^--
+numberOfLikes += 1;
+
+console.log(numberOfLikes);
