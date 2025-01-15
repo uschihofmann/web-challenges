@@ -1,0 +1,184 @@
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challen
+$   cd js-basics-and-variables_console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challen
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challen
+$   cd js-basics-and-variables_console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challen
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challen      branch "Aufgabe console-methods bearbeiten"
+$   cd js-basics-and-variables_console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challencs-and
+-variables_console-methods (main)
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challen (main) anch task-console-methods
+$   cd js-basics-and-variables_console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challen/js-basi
+cs-and-variables_console-methods (main)
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challens branchanch task-console-methods
+ (main)
+$   cd js-basics-and-variables_console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challens"
+/js-basics-and-variables_console-methods (main)
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challeneatal: 'Aufgabe console-methods bearbeiten' is not a vs (main)
+$   cd js-basics-and-variables_console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenes-and-variables_console-methods (main)
+s/js-basics-and-variables_console-methods (main)       
+$ git branch "Aufgabe console-methods bearbeiten"      ob@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenfatal: 'Aufgabe console-methods bearbeiten' is not a vl git branch task-console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges (main)
+$   cd js-basics-and-variables_console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-  git branch "Aufgabe console-methods bearbeiten"
+$ git branch "Aufgabe console-methods bearbeiten"
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges (main)
+$   cd js-basics-and-variables_console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-n)
+
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges (main)
+$   cd js-basics-and-variables_console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-nob@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-)
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges (main)
+$   cd js-basics-and-variables_console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-a)
+in)
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges (main)
+$   cd js-basics-and-variables_console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-
+
+$ git branch "Aufgabe console-methods bearbeiten"
+fatal: 'Aufgabe console-methods bearbeiten' is not a valid branch name
+hint: See `man git check-ref-format`
+hint: Disable this message with "git config advice.refSyntax false"
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-
+
+$ git branch task-console-methods
+
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-
+
+
+$ ls
+index.js  package.json  README.md
+
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-
+
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-variablesllenges/js-basics-and-variables_console-methods (main)
+$ git branch
+* main
+  task-console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-variablesds (main)
+$ git checkout task-console-methods
+Switched to branch 'task-console-methods'
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-variablesds (task-console-methods)
+$ git status
+On branch task-console-methods
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   index.js
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/js-basics-and-variablesds (task-console-methods)
+$ git add --all
+warning: in the working copy of 'js-basics-and-variables_console-methods/index.js
+replaced by CRLF the next time Git touches it
+ta-for-social-media-post (main)
+$ git checkout -b task-data-social-media-post
+Switched to a new branch 'task-data-social-media-post'
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/data-for-social-media-post (task-da
+$ git status
+On branch task-data-social-media-post
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   js-basics-and-variables_social-media-post/index.js
+
+(task-data-social-media-post)
+$ ls
+js-basics-and-variables_social-media-post/
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/data-for-social-media-post (task-data-social-media-post)
+$
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/data-for-social-media-post (task-data-social-media-post)
+$ git push origin task-data-social-media-post
+Total 0 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: 
+remote: Create a pull request for 'task-data-social-media-post' on GitHub by visiting:
+remote:      https://github.com/uschihofmann/web-challenges/pull/new/task-data-social-media-post
+remote:
+To github.com:uschihofmann/web-challenges.git
+ * [new branch]      task-data-social-media-post -> task-data-social-media-post
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/data-for-social-media-post (task-data-social-media-post)
+$ git branch
+  main
+  task-console-methods
+* task-data-social-media-post
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/data-for-social-media-post (task-data-social-media-post)
+$ switch task-console-methods
+bash: switch: command not found
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/data-for-social-media-post (task-data-social-media-post)
+$ git checkout task-console-methods
+M       data-for-social-media-post/js-basics-and-variables_social-media-post/index.js
+Switched to branch 'task-console-methods'
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/data-for-social-media-post (task-console-methods)
+$ git push origin task-console-methods
+Enumerating objects: 7, done.
+Counting objects: 100% (7/7), done.
+Delta compression using up to 12 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 493 bytes | 493.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
+remote:
+remote: Create a pull request for 'task-console-methods' on GitHub by visiting:
+remote:      https://github.com/uschihofmann/web-challenges/pull/new/task-console-methods
+remote:
+To github.com:uschihofmann/web-challenges.git
+ * [new branch]      task-console-methods -> task-console-methods
+
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges/data-for-social-media-post (task-console-methods)
+$ git checkout main
+M       data-for-social-media-post/js-basics-and-variables_social-media-post/index.js
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+
+j
+job@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges (main)
+$
+ob@DESKTOP-3IQ5194 MINGW64 ~/web-bootcamp/web-challenges (main)
+$ touch 140125-console-history.txt
